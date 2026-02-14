@@ -148,23 +148,6 @@ export const menuData: MenuCategory[] = [
           ru: { flavorNotes: "Яркий, огненный томат с острым пекорино", allergens: ["Глютен", "Молочные"], dietary: ["Вегетарианское"] },
         },
       },
-      {
-        id: "m4",
-        image: "https://images.unsplash.com/photo-1432139509613-5c4255a1d197?w=400&h=300&fit=crop",
-        price: 28,
-        labels: [],
-        name: { en: "Grilled Ribeye Steak", tr: "Izgara Bonfile", ru: "Стейк Рибай на гриле" },
-        description: {
-          en: "Prime cut ribeye, truffle mashed potatoes, red wine reduction",
-          tr: "Seçkin bonfile, trüflü patates püresi, kırmızı şarap sos",
-          ru: "Рибай премиум, пюре с трюфелем, соус из красного вина",
-        },
-        details: {
-          en: { flavorNotes: "Rich, umami-loaded with earthy truffle and bold wine notes", allergens: ["Dairy"] },
-          tr: { flavorNotes: "Zengin, umami dolu, toprak trüf ve cesur şarap notaları", allergens: ["Süt ürünü"] },
-          ru: { flavorNotes: "Насыщенный, умами с трюфелем и нотами красного вина", allergens: ["Молочные"] },
-        },
-      },
     ],
   },
   {
